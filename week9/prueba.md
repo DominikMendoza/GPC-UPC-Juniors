@@ -1,0 +1,1 @@
+[![](https://github.com/DominikMendoza/GPC-UPC-Juniors/blob/main/imgs/a.png)]
