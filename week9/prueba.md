@@ -1,11 +1,14 @@
-![Kun y los subarreglos](https://github.com/DominikMendoza/GPC-UPC-Juniors/blob/main/imgs/a.png)
-
 # Kun y los subarreglos
+
+Kun tiene un arreglo de *n* elementos  A<sub>i</sub> , A<sub>i+1</sub> , . . . , A<sub>n</sub> y desea saber cuántos subarreglos existen de tal forma que tengan todos sus elementos en orden no decreciente.
+
+Un subarreglo está formado por los elementos A<sub>l</sub> , A<sub>l+1</sub> , . . . , A<sub>n</sub>, para todo ```1 <= l <= r <= n```.
+
 **Input Format**
 
-La primera línea contiene un entero ```n``` , indicando la cantidad de elementos del arreglo.
+La primera línea contiene un entero *n* , indicando la cantidad de elementos del arreglo.
 
-La segunda línea contiene los A<sub>i</sub>  números enteros  que forman el arreglo.
+La segunda línea contiene los *A<sub>i</sub>*  números enteros  que forman el arreglo.
 
 **Constraints**
 
